@@ -69,7 +69,7 @@ biblioteca_pessoal/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Kizuypy/biblioteca-pessoal.git
+git clone https://github.com/Kizuypy/personal_library.git
 
 # Entre na pasta do projeto
 cd biblioteca-pessoal
